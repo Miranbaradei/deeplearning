@@ -2,7 +2,7 @@
 <img width="1902" height="543" alt="image" src="https://github.com/user-attachments/assets/dd01c346-4fa3-427c-965e-813cf8b03b22" />
 ---
 
-# 📄 **Final Project Report**
+#  **Final Project Report**
 
 ## **EuroSAT & CIFAR-10 Classification using Transfer Learning and Web Deployment**
 
@@ -187,11 +187,11 @@ This highlights the importance of dataset choice and the limits of deep learning
 
 ## **9. Final Deliverables**
 
-* ✔ EuroSAT model – `eurosat.pkl`
-* ✔ CIFAR model – `cifar.pkl`
-* ✔ Streamlit App – `app.py`
-* ✔ Ngrok deployment URL
-* ✔ Project notebook (workflow, training, results, visualizations)
+*  EuroSAT model – `eurosat.pkl`
+* CIFAR model – `cifar.pkl`
+*  Streamlit App – `app.py`
+*  Ngrok deployment URL
+* project notebook (workflow, training, results, visualizations)
 
 ---
 
@@ -207,13 +207,4 @@ This project demonstrates a complete deep learning pipeline including:
 * Full real-time web deployment
 
 
-## 🎯 جاهز أعملهولك PDF أو Word؟
-
-لو تحب:
-
-✔ أحوّل التقرير لملف Word جاهز
-✔ أو PDF جاهز للطباعة
-✔ أو PowerPoint Presentation كاملة
-
-قولّي وأنا أعمله فورًا ❤️🚀
 
